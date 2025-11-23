@@ -11,8 +11,8 @@ To write a Python program to print the following integer and float literals: 10,
 
 ## PROGRAM
 ```python
-# Reg.No-212223060190
-# Name-Om Sharma M
+# Reg.No-212223060114
+# Name-KARTHICK E S
 # Write your code here
 
 a=int(input())
